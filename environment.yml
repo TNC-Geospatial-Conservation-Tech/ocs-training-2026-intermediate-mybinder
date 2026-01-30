@@ -4,7 +4,7 @@ channels:
 dependencies:
   - python=3.12.*
   - folium=0.20.*
-#  - rasterio=1.5.*
+  - rasterio=1.5.*
   - ipykernel=7.1.*
   - pystac-client=0.9.*
   - geopandas=1.1.*
