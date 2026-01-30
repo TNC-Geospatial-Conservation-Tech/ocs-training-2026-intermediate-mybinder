@@ -3,9 +3,9 @@ channels:
   - conda-forge
 dependencies:
   - python=3.12.*
-#  - folium=0.20.*
+  - folium=0.20.*
 #  - rasterio=1.5.*
-#  - ipykernel=7.1.*
+  - ipykernel=7.1.*
   - pystac-client=0.9.*
 #  - geopandas=1.1.*
 #  - libgdal-core=3.12.*
