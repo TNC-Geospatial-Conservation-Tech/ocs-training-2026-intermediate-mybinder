@@ -3,6 +3,7 @@ channels:
   - conda-forge
 dependencies:
   - python=3.11
+  - boto3>=1.34,<1.36
   - ipykernel
   - folium=0.16
   - geopandas=0.14
