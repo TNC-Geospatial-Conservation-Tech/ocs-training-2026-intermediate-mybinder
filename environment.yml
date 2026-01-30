@@ -6,7 +6,7 @@ dependencies:
   - python=3.12.*
   - folium=0.20.*
   - rasterio
-  - ipykernel=7.1.*
+  - ipykernel
   - pystac-client=0.9.*
   - geopandas=1.1.*
-  - gdal
+  - libgdal-core
