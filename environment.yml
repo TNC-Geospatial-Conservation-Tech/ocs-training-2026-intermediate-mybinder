@@ -1,6 +1,5 @@
 name: ocs-intermediate
 channels:
-  - pyviz
   - conda-forge
 dependencies:
   - python=3.12.*
