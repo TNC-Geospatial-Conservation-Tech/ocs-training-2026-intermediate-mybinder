@@ -1,5 +1,6 @@
 name: ocs-intermediate
 channels:
+  - pyviz
   - conda-forge
 dependencies:
   - python=3.12.*
@@ -8,4 +9,4 @@ dependencies:
   - ipykernel=7.1.*
   - pystac-client=0.9.*
   - geopandas=1.1.*
-#  - libgdal-core=3.12.*
+  - gdal
