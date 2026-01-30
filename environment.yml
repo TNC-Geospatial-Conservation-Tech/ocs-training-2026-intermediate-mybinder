@@ -2,10 +2,10 @@ name: ocs-intermediate
 channels:
   - conda-forge
 dependencies:
-  - python=3.12.*
-  - folium=0.20.*
+  #- python=3.12.*
+  #- folium=0.20.*
   - rasterio
-  - ipykernel
-  - pystac-client=0.9.*
-  - geopandas=1.1.*
+  #- ipykernel
+  #- pystac-client=0.9.*
+  #- geopandas=1.1.*
   - libgdal-core
