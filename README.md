@@ -11,9 +11,9 @@ This repo is specifically organized for the live version of the Intermediate Mod
 
 To view **and execute python** notebook cells, use the `Binder` badge above to launch a small (ephemeral) compute environment.
 
-To view workbooks in a non-interactive webpage, use the links below, which use [https://nbviewer.org/](https://nbviewer.org/):
-- [Lesson 1: Working with Data from TNC S3](https://nbviewer.org/github/TNC-Geospatial-Conservation-Tech/ocs-training-2026-intermediate-mybinder/blob/main/01_TNC_S3_Bucket.ipynb)
-- [Lesson 2: AWS Data Exchange and STAC](https://nbviewer.org/github/TNC-Geospatial-Conservation-Tech/ocs-training-2026-intermediate-mybinder/blob/main/02_AWSDataExchange_STAC.ipynb)
-- [Lesson 3: Accessing Data Using Open Geospatial Consortium (OGC) Services](https://nbviewer.org/github/TNC-Geospatial-Conservation-Tech/ocs-training-2026-intermediate-mybinder/blob/main/03_OGC_Services.ipynb)
+To view workbooks in a non-interactive webpage, use the links below:
 
-Lastly, if nbviewer (a third party service) is down, workbooks can be viewed here: https://tnc-geospatial-conservation-tech.github.io/ocs-training-2026-intermediate-mybinder/
+- [Lesson 1: Working with Data from TNC S3](https://tnc-geospatial-conservation-tech.github.io/ocs-training-2026-intermediate-mybinder/01_TNC_S3_Bucket.html)
+- [Lesson 2: AWS Data Exchange and STAC](https://tnc-geospatial-conservation-tech.github.io/ocs-training-2026-intermediate-mybinder/02_AWSDataExchange_STAC.html)
+- [Lesson 3: Accessing Data Using Open Geospatial Consortium (OGC) Services](https://tnc-geospatial-conservation-tech.github.io/ocs-training-2026-intermediate-mybinder/03_OGC_Services.html)
+- [Static Homepage](https://tnc-geospatial-conservation-tech.github.io/ocs-training-2026-intermediate-mybinder/)
